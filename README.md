@@ -32,6 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshavardhanch9&show_icons=true&locale=en&layout=compact" alt="harshavardhanch9" /></p>
 
+<br/>
 ## Connect with me:
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
