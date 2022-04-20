@@ -32,10 +32,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshavardhanch9&show_icons=true&locale=en&layout=compact" alt="harshavardhanch9" /></p>
 
-<!-- <br/>
 <br/>
-## Connect with me: -->
-<h3 align="left">Connect with me:</h3>
+<br/>
+
+## Connect with me:
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 <a href="https://twitter.com/iamharshavardhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamharshavardhn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harsha-vardhan-chintaginjala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsha-vardhan-chintaginjala" height="30" width="40" /></a>
