@@ -1,4 +1,4 @@
-[![MasterHead](https://www.harriswilliams.com/sites/default/files/header_image/tech_web-header-image_v2.png)
+![MasterHead](https://www.harriswilliams.com/sites/default/files/header_image/tech_web-header-image_v2.png)
 <h1 align="center">Hi 👋, I'm Harsha Vardhan Chintaginjala</h1>
 <h3 align="center">I am a passionate Data Scientist and Geothermal Engineer currently living in Germany.</h3>
 
