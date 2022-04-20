@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
 
 - 🔭 I’m currently working on **Image Caption Generator using CNN and LSTM models.**
 
@@ -32,6 +32,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshavardhanch9&show_icons=true&locale=en&layout=compact" alt="harshavardhanch9" /></p>
 
-
-
+## Connect with me:
+<!-- <h3 align="left">Connect with me:</h3> -->
+<p align="left">
+<a href="https://twitter.com/iamharshavardhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamharshavardhn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harsha-vardhan-chintaginjala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsha-vardhan-chintaginjala" height="30" width="40" /></a>
+</p>
 
