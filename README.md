@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.imgbin.com/9/6/21/imgbin-programmer-computer-programming-source-code-editor-software-developer-others-bmwAJTpfCRAGiMqLiriwmFV3X.jpg)
+[![MasterHead](https://www.harriswilliams.com/sites/default/files/header_image/tech_web-header-image_v2.png)
 <h1 align="center">Hi 👋, I'm Harsha Vardhan Chintaginjala</h1>
 <h3 align="center">I am a passionate Data Scientist and Geothermal Engineer currently living in Germany.</h3>
 
