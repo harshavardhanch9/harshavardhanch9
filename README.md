@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Harsha Vardhan Chintaginjala</h1>
 <h3 align="center">I am a passionate Data Scientist and Geothermal Engineer currently living in Germany.</h3>
-<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/4502924-Python-developer-animation"
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif"
 
 - 🔭 I’m currently working on **Image Caption Generator using CNN and LSTM models.**
 
